@@ -13,3 +13,4 @@
   highlight_file(__FILE__); 
 ?>
 // hoiw khoai day :D
+// succubus -> suc cu bu :D
